@@ -1,7 +1,7 @@
 # GYM-FITNESS-website-in-using-In-HTML-CSS-JAVASCRIPT
 "Gym fitness" refers to physical fitness activities and exercises that are performed in a gym or fitness center. It encompasses a wide range of exercises and workouts designed to improve one's overall physical health and well-being. Gym fitness activities are typically conducted using various types of exercise equipment and under the guidance of fitness professionals.
 
-                                                                              ****Here are some key aspects of gym fitness:*****
+                                                          ****Here are some key aspects of gym fitness:*****
 
 1. **Exercise Equipment:** Gyms are equipped with a variety of exercise machines and equipment, such as treadmills, stationary bikes, elliptical machines, weightlifting machines, free weights (dumbbells and barbells), resistance bands, and more. These tools are used for cardiovascular exercises, strength training, and muscle toning.
 
